@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requests
 
-My examples are at `test_spec.js`. There you'll find 4 main tests about requests:
+My examples are at `/cypress/integration/test_spec.js`. There you'll find 4 main tests about requests:
 
 * local fetch without stubbing
 * local fetch with stubbing
